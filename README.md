@@ -44,9 +44,6 @@ The model was trained for **50 epochs** on a Google Colab Tesla T4 GPU environme
 ### Training Progress
 The training and validation curves indicate steady convergence of Box, Class, and DFL losses over the 50-epoch duration, successfully capturing the features of various vehicle types.
 
-### Real-World Application Demo
-Below are sample inferences run on the **Test Set** using the custom-trained weights. 
-![Detection Output](./domain_application_test.png)
 
 ---
 
